@@ -2,9 +2,9 @@
 ### Senior AIOps & ML Platform Engineer | Agentic Systems & MLOps Architect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/naveen-mandula"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nmandula"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/nmandula0511"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:naveen.mandula@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:nmandula0511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -79,8 +79,8 @@ graph TD
     *   **Infrastructure as Code**: Provisioned all ECS Fargate, ALB, and IAM resources via modular Terraform scripts.
 *   **Technologies**: `Python 3.11` | `FastAPI` | `React` | `Terraform` | `Docker` | `Apache Kafka` | `Neptune`
 
-### ✈️ [NASA-CMAPSS-Predictive-Maintenance](https://github.com/nmandula0511/NASA-CMAPSS-Predictive-Maintenance)
-*End-to-end MLOps pipeline forecasting the Remaining Useful Life (RUL) of turbofan jet engines using time-series sensor arrays.*
+### ✈️ [Industrial-Predictive-Maintenance-Platform](https://github.com/nmandula0511/Industrial-Predictive-Maintenance-Platform)
+*Industrial AI platform for predictive maintenance using sensor data, Remaining Useful Life (RUL) prediction, OEE metrics, and ML models.*
 
 *   **Architectural Milestones**:
     *   **Feature Engineering**: Engineered rolling standard deviations, sensor differences, and temporal windows on noisy time-series telemetry.
